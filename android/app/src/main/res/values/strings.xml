@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="facebook_app_id">2130478490749011</string>
+    <string name="fb_login_protocol_scheme">fb41703b59c0154b8378595c6cf3a8776c</string>
+    <string name="facebook_client_token">6f6958dbe4d130102954313761f2539b</string>
+</resources>
